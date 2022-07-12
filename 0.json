@@ -1,0 +1,18 @@
+{
+    "name": "Booster #0",
+    "symbol": "ML-B",
+    "description": "MutantLabs Boosters",
+    "seller_fee_basis_points": 1000,
+    "image": "",
+    "attributes": [
+      { "trait_type": "Type", "value": "X" },
+      { "trait_type": "Dimension", "value": "13" }
+    ],
+    "properties": {
+      "creators": [
+        { "address": "121LMgNHbfq4q7YoFeiUWQ5m6R1iCXDz4R5KKPsLHeKM", "share": 100 }
+      ],
+      "files": [{ "uri": "", "type": "image/gif" }]
+    },
+    "collection": { "name": "MutantLabs Boosters", "family": "MutantLabs"}
+  }
